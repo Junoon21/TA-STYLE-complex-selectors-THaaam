@@ -541,12 +541,6 @@ footer h1 {
     font-size: 21px;
     font-weight: 40;
 }
-
-/* .icon-col i {
-    background-color: var(--blue);
-    font-size: 12px;
-} */
-
 /* col */
 .col li {
     font-size: 16px;
@@ -576,10 +570,6 @@ footer h1 {
         width: 16px;
         height: 12px;
     }
-    /* #toggle:checked ~ .nav {
-        display: inline-block;
-    } */
-
     /* header sec */
 
     .header-sm {
